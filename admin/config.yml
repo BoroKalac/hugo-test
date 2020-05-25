@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: borokalac/hugo-test
   branch: master # Branch to update (optional; defaults to master)
 media_folder: static/img
 public_folder: /img
